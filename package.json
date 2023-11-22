@@ -2,7 +2,7 @@
   "name": "create-webr-cli",
   "author": "boB Rudis",
   "readme": "README.md",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A template for creating WebR CLI",
   "bin": {
     "create-webr-cli": "./create.js"
