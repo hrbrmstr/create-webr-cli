@@ -1,0 +1,22 @@
+{
+  "name": "my-awesome-webr-cli",
+  "author": "boB Rudis",
+  "readme": "README.md",
+  "version": "0.1.0",
+  "description": "A rly spiffy portable R CLI via Node",
+  "keywords": [
+    "webR"
+  ],
+  "license": "MIT",
+  "run": {
+    "webrcli": "node index.mjs"
+  },
+  "bin": {
+    "webrcli": "./index.mjs"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "webr": "0.2.2",
+    "webrtools": "^0.0.3"
+  }
+}

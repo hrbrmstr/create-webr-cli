@@ -1,0 +1,22 @@
+{
+  "name": "create-webr-cli",
+  "author": "boB Rudis",
+  "readme": "README.md",
+  "version": "0.1.0",
+  "description": "A template for creating WebR CLI",
+  "bin": {
+    "create-webr-cli": "./create.js"
+  },
+  "keywords": [
+    "webR",
+    "cli",
+    "template"
+  ],
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/hrbrmstr/create-webr-cli.git"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+# use this to bootstrap available packages
+pkgs:
+  Rscript ./node_modules/webrtools/r/install.R tidyverse
+
+# run this script
+@run:
+  npm exec webrcli 20
+
+# install the CLI
+@install:
+  npm install -g
