@@ -4,7 +4,7 @@ pkgs:
 
 # run this script
 @run:
-  npm exec webrcli 20
+  node index.mjs 20
 
 # install the CLI
 @install:

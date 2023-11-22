@@ -8,9 +8,6 @@
     "webR"
   ],
   "license": "MIT",
-  "run": {
-    "webrcli": "node index.mjs"
-  },
   "bin": {
     "webrcli": "./index.mjs"
   },
