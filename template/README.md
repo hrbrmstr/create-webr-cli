@@ -2,3 +2,8 @@
 
 This repo contains a skeleton/example of a Node.JS WebR CLI application.
 
+```bash
+$ npm install
+$ just pkgs
+$ npm exec webrcli
+```
